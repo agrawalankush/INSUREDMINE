@@ -6,12 +6,13 @@ import { MaterialModule } from './material.module';
 import { AppComponent } from './app.component';
 import { StackedBarChartComponent } from './stacked-bar-chart/stacked-bar-chart.component';
 import { MultiLineChartComponent } from './multi-line-chart/multi-line-chart.component';
-
+import { PagenotfoundComponent } from './pagenotfound/pagenotfound.component';
 @NgModule({
   declarations: [
     AppComponent,
     StackedBarChartComponent,
-    MultiLineChartComponent
+    MultiLineChartComponent,
+    PagenotfoundComponent
   ],
   imports: [
     BrowserModule,

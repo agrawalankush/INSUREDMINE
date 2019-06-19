@@ -3,3 +3,13 @@
 body{
     margin: 0;
 }
+canvas{
+    margin: 0 auto;
+    }
+.chart-container{
+    display: block;
+    margin: auto;
+    width:1250px;
+    border-radius: 16px;
+    box-shadow: 4px 4px 20px -2px grey;
+}
