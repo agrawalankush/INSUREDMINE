@@ -95,7 +95,7 @@ export class MultiLineChartComponent implements OnInit {
         title: {
           display: true,
           fontSize: 18,
-          text: 'Insuredmine campaign line Chart'
+          text: 'INSUREDMINE Campaign Line Chart'
         },
         responsive: false,
         legend: {

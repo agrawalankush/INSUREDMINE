@@ -93,7 +93,7 @@ export class StackedBarChartComponent implements OnInit, AfterViewInit {
         title: {
           display: true,
           fontSize: 18,
-          text: 'Insuredmine campaign bar Chart'
+          text: 'INSUREDMINE Campaign Stacked Bar Chart'
         },
         responsive: false,
         legend: {
